@@ -1,0 +1,290 @@
+{
+  "login": [
+    {
+      "id": "sadmin",
+      "username": "sadmin",
+      "password": "sadmin",
+      "token": "sadmin"
+    },
+    {
+      "id": "admin",
+      "username": "admin",
+      "password": "admin",
+      "token": "admin"
+    },
+    {
+      "id": "user",
+      "username": "user",
+      "password": "user",
+      "token": "user"
+    }
+  ],
+  "groups": [
+    {
+      "GroupName": "Group 1",
+      "Description": "Grp1 Descrpton",
+      "Status": true,
+      "id": "a3eb2115-253f-beac-1200-d1296e8cdab3",
+      "editMode": false
+    },
+    {
+      "GroupName": "Group 2",
+      "Description": "Grp 2 Dessc",
+      "Status": false,
+      "id": "a590785b-82de-926b-90b2-936f669cc4e9"
+    }
+  ],
+  "questiontype": [
+    {
+      "GroupName": "Objective",
+      "Description": "minus mark",
+      "Status": false,
+      "id": "5839f3e4-58ec-224e-37b6-e66e152e48f4"
+    },
+    {
+      "GroupName": "Sem Subjective",
+      "Description": "3 point questions",
+      "Status": true,
+      "id": "ddfcf833-0713-e53b-c6ed-32382809e3d3",
+      "editMode": false
+    }
+  ],
+  "participant": [
+    {
+      "Name": "sdasf",
+      "Address": "sdf",
+      "Gender": "Female",
+      "DOB": "2019-05-26",
+      "Emal": "dfgsdg",
+      "Phone": 35234,
+      "Status": false,
+      "id": "4be07285-1f41-a269-5f6c-86171ef652bd"
+    }
+  ],
+  "AddBussiness": {
+    "data": [
+      {
+        "BusinessName": "Hospitals",
+        "Description": "taking care of people",
+        "Status": "Active",
+        "CreatedDate": "20/03/2019",
+        "ModifiedDate": "20/09/2019"
+      },
+      {
+        "BusinessName": "Education",
+        "Description": "Developing people",
+        "Status": "InActive",
+        "CreatedDate": "20/03/2019",
+        "ModifiedDate": "20/09/2019"
+      }
+    ]
+  },
+  "AddFactors": [
+    {
+      "FactorName": "Test Factor",
+      "Description": "This is Test Expresson",
+      "id": "37b20f35-7c28-a4c1-f270-7d7354184bb4",
+      "Status": false,
+      "editMode": false
+    },
+    {
+      "FactorName": "xvxcv",
+      "Description": "dfgs",
+      "id": "03b4f34b-19c9-849c-5faa-b08b1e6890b0"
+    },
+    {
+      "FactorName": "dg",
+      "Description": "dfsg",
+      "id": "9fb2bc4f-5398-df02-93cf-f6bfc724440e",
+      "Status": true
+    },
+    {
+      "FactorName": "ghfh",
+      "Description": "fgdh",
+      "id": "340de4ce-2735-f0df-66c3-80eb9a5e53b7"
+    },
+    {
+      "FactorName": "ghd",
+      "Description": "fgkhj",
+      "id": "c605b475-24d3-92f1-ce4b-5e5950623575"
+    },
+    {
+      "FactorName": "tuyty",
+      "Description": "jkh",
+      "id": "d96cac8e-addc-de49-950b-f5c33ddb460a"
+    }
+  ],
+  "AddCompany": [
+    {
+      "IndicatorName": "sf",
+      "CompanyAddress": "sdf",
+      "CompanyPhone": "dfg",
+      "CompanyEmail": "dsgf",
+      "id": "049a28c1-c0d7-8075-568d-1b250934733e",
+      "Status": true
+    },
+    {
+      "IndicatorName": "ust",
+      "CompanyAddress": "kulathoor",
+      "CompanyPhone": "3123123",
+      "CompanyEmail": "ust@gms.com",
+      "id": "a6c4309c-7d0c-e7bf-d4b6-a61e0653db5f",
+      "Status": false
+    }
+  ],
+  "AddIndicators": [],
+  "AddAdmin": [
+    {
+      "FactorName": "dfg",
+      "Address": "Calicut",
+      "Gender": "male",
+      "id": "4b733d13-0eaf-df4b-81fd-0d88f0dcb2ff",
+      "Name": "Ajmal",
+      "Emal": "mhdajmalik@gmai.com",
+      "Phone": 8089919182,
+      "DOB": "2019-05-10",
+      "Status": true
+    },
+    {
+      "Name": "Ramu",
+      "Address": "Rainbow house",
+      "Emal": "mhdajmalik@gmai.com",
+      "Phone": 8089919182,
+      "Gender": "male",
+      "DOB": "2019-05-11",
+      "Status": false,
+      "id": "e24bc9b2-4678-bdff-055d-d14264d8404f",
+      "CompanyName": "ust",
+      "CompanyAddress": "nla"
+    },
+    {
+      "Name": "Rajan",
+      "Address": "Rainbow house",
+      "Emal": "mhdajmalik@gmai.com",
+      "Phone": 8089919182,
+      "DOB": "2019-05-31",
+      "CompanyName": "ust",
+      "CompanyAddress": "kulathopor",
+      "Gender": "Female",
+      "Status": false,
+      "id": "522834d7-fc0e-e8d4-ecdb-3485044d1229"
+    }
+  ],
+  "test": [
+    {
+      "id": "1006",
+      "name": "Tedadasst N1",
+      "desc": "This isadas ad Sampe",
+      "active": true,
+      "editMode": false
+    },
+    {
+      "id": "1008",
+      "name": "Sujan",
+      "desc": "Savior",
+      "editMode": false
+    },
+    {
+      "id": "1009",
+      "name": "Tedadasst N1",
+      "desc": "This isadas ad Sampe",
+      "active": false
+    },
+    {
+      "id": "1010",
+      "name": "Test asd N1",
+      "desc": "This Sampe",
+      "active": true
+    },
+    {
+      "id": "1011",
+      "name": "Test N1",
+      "desc": "This is Sampe",
+      "active": true
+    },
+    {
+      "id": "1012",
+      "name": "Tedadasst N1",
+      "desc": "This isadas ad Sampe"
+    },
+    {
+      "id": "1013",
+      "name": "Test asd N1",
+      "desc": "This Sampe"
+    },
+    {
+      "id": "1014",
+      "name": "Test N1",
+      "desc": "This is Sampe"
+    },
+    {
+      "id": "1015",
+      "name": "Tedadasst N1",
+      "desc": "This isadas ad Sampe",
+      "editMode": false
+    },
+    {
+      "id": "1016",
+      "name": "Test asd N1",
+      "desc": "This Sampe",
+      "active": true
+    },
+    {
+      "id": "1024",
+      "name": "sf",
+      "desc": "sdfg"
+    },
+    {
+      "id": "1025",
+      "name": "New Item added",
+      "desc": "test descriptin"
+    },
+    {
+      "id": "1026",
+      "name": "Ajam",
+      "desc": "tttt"
+    },
+    {
+      "id": "1027",
+      "name": "sf",
+      "desc": "sdfg"
+    },
+    {
+      "id": "1028",
+      "name": "sf",
+      "desc": "sdfg"
+    },
+    {
+      "id": "1030",
+      "name": "Ajmal",
+      "desc": "Test des"
+    },
+    {
+      "id": "1031",
+      "name": "Rad",
+      "desc": "Temp",
+      "active": true
+    },
+    {
+      "id": "1033",
+      "name": "Muhammed ",
+      "desc": "Ajmal IK",
+      "editMode": false
+    },
+    {
+      "id": "et",
+      "name": "wert",
+      "desc": "wert"
+    },
+    {
+      "id": "iiiii",
+      "name": "iii",
+      "desc": "iiii"
+    },
+    {
+      "id": "gsdf",
+      "name": "sdfgs",
+      "desc": "dfsg"
+    }
+  ]
+}
